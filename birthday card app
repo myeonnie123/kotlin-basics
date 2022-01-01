@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:Layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical"
+	xmls:android="http://birthday.android.com/apk/res/android">
+	
+	<TextView
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:text="Happy Birthday James!"
+		android:textSize="30sp"
+		android:gravity="center"
+		/>
+		
+	<TextView
+		android:layout_width="match_parent"
+		android:layout_height="match_content"
+		android:text="From Emma"
+		android: android:textAlignment="viewEnd"
+		android:textSize="36sp"
+		android:layout_alignParentBottom="true"
+		android:layout_alignParentRight="true"
+		android:padding="8dp"
+		/>
